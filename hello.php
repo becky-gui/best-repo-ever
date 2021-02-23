@@ -1,3 +1,6 @@
-Hello,
-This is the first exercise.
+<?php
+echo 'Hello';
+echo 'This is the first exercise.'
+?>
+
 
